@@ -146,7 +146,6 @@ h6 {
     margin-left: 0;
   }
 
-  .container,
   .container-fluid {
     padding-left: 12px;
     padding-right: 12px;
@@ -239,10 +238,10 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
+  width: 120%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
-  background-size: cover;
+  background: url("../img/Free\ Vector\ _\ Futuristic\ background\ of\ a\ computer\ gamer.jpeg") top center;
+  background-size: auto;
 }
 
 #hero:before {
@@ -326,6 +325,12 @@ section {
   padding-bottom: 20px;
   position: relative;
   color: #173b6c;
+}
+
+#subtitulo h3
+{
+  color: #173b6c;
+
 }
 
 .section-title h2::after {
